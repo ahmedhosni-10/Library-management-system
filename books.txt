@@ -1,0 +1,66 @@
+ID,title,author,genre,availability
+20001,catch of a lifetime,Judi Fennell,romance,True
+20002,promise me tomorrow,Lori Wick,romance,True
+20003,The Talisman Ring,Georgette Heyer,romance,True
+20004,In Over Her Head,Judi Fennell,romance,False
+20005,Fugitive,Cheryl Brooks,romance,True
+20006,Getting Lucky,Carolyn Brown,romance,True
+20007,The Grand Sophy,Georgette Heyer,romance,True
+20008,Frederica,Georgette Heyer,romance,True
+20009,The Love Machine,Jacqueline Susann,romance,False
+20010,Legend of the White Wolf,Terry Spear,romance,True
+20011,Miranda's Big Mistake,Jill Mansell,romance,True
+20012,A Duke to Die For,Amelia Grey,romance,True
+20013,Emotional Confusion,Eric Sean Hinton,romance,False
+20014,Powder and Patch,Georgette Heyer,romance,True
+20015,The Foundling,Georgette Heyer,romance,True
+20016,Lucky in Love,Carolyn Brown,romance,False
+20017,My Unfair Lady,Kathryne Kennedy,romance,True
+20018,Devil's Cub,Georgette Heyer,romance,True
+20019,These Old Shades,Georgette Heyer,romance,False
+20020,RomeoRomeo,Robin Kaye,romance,True
+20021,The Bat,Mary Roberts Rinehart,Mystery & Thrillers,False
+20022,Three Deuces Down,Keith Donnelly,Mystery & Thrillers,True
+20023,Death in the Stocks,Georgette Heyer,Mystery & Thrillers,True
+20024,The Daffodil Mystery,Edgar Wallace,Mystery & Thrillers,False
+20025,The Case of Jennie Brice,Mary Roberts Rinehart,Mystery & Thrillers,True
+20026,When Shadows Fall,Kate Fellowes,Mystery & Thrillers,True
+20027,No Wind of Blame,Georgette Heyer,Mystery & Thrillers,True
+20028,Shadow Laws,Jim Michael Hansen,Mystery & Thrillers,False
+20029,Root of All Evil,Brandt Dodson,Mystery & Thrillers,True
+20030,The Penrose Mystery,R. Austin Freeman,Mystery & Thrillers,True
+20031,Vampire Murders in Morocco,Beatrice F. Cayzer,Mystery & Thrillers,False
+20032,Old House of Fear,Russell Kirk,Mystery & Thrillers,True
+20033,Squeeze Play,Jim Harrington,Mystery & Thrillers,True
+20034,Death in Living Gray,John Clayton,Mystery & Thrillers,False
+20035,Death is a Two-Stroke Penalty,James Y. Bartlett,Mystery & Thrillers,True
+20036,Phoenix,A. James Gregor,history,False
+20037,Columbus and Other Cannibals,Jack D. Forbes,history,True
+20038,United States v. G. W. Bush et al,Elizabeth De La Vega,history,True
+20039,The Modern Cowboy,John R. Erickson,history,False
+20040,A Field Guide for Female Interrogators,Coco Fusco,history,True
+20041,Many Stones,Carolyn Coman,history,True
+20042,Lincoln Revisited,John Y. Simon,history,True
+20043,Tales of a Texas Boy,Marva Dasef,history,False
+20044,Mexicans in Revolution,William H. Beezley,history,True
+20045,Let Every Nation Know,Robert Dallek,history,True
+20046,William & Rosalie,William Schiff,history,True
+20047,The Secret of U-Boat G-17,Dieter Gombert,history,False
+20048,Armed Love,Elia Katz,history,True
+20049,Nebraska Moments,Donald R. Hickey,history,True
+20050,The War in the Empty Air,Dagmar Barnouw,history,False
+20051,Soon the Rest Will Fall,Peter Plate,Literature & Fiction,True
+20052,The Black Book,Lawrence Durrell,Literature & Fiction,True
+20053,Revolution!,Gary Naiman,Literature & Fiction,False
+20054,Memories from a Sinking Ship,Barry Gifford,Literature & Fiction,True
+20055,Mugu,Valentine Cyndy Egbejimba,Literature & Fiction,True
+20056,Mr. Darcy's Diary,Amanda Grange,Literature & Fiction,True
+20057,Angels in Iron,Nicholas C. Prata,Literature & Fiction,False
+20058,Never Surrender,Michael Dobbs,Literature & Fiction,True
+20059,My Lady of Cleves,Margaret Campbell Barnes,Literature & Fiction,True
+20060,King's Fool,Margaret Campbell Barnes,Literature & Fiction,False
+20061,Sarai's Stripes,Carli Urena,Children's,True
+20062,Will Northaway & the Gathering Storm,Susan Olasky,Children's,True
+20063,The Winter Road,Terry Hokenson,Children's,False
+20064,Heck Superhero,Martine Leavitt,Children's,True
+20065,Joe Rat,Mark Barratt,Children's,True
